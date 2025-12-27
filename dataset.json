@@ -1,0 +1,398 @@
+{
+  "customer_service_chats": [
+    {
+      "chat_id": "CHAT_001",
+      "timestamp": "2024-11-15T10:23:45Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "Hi, my name is Priya Sharma. I ordered a phone but received a tablet instead. Order number is ORD-445621."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Hello Priya, I apologize for the mix-up. May I have your contact details?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Sure, my phone is +91 97834 56721 and email is priya.sharma2024@gmail.com."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Thank you. We'll arrange a replacement within 3 business days."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_002",
+      "timestamp": "2024-11-16T14:12:33Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "My broadband connection keeps dropping every hour. Complaint ID: CMP2024-XY9988."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Sorry for the trouble. Could you provide your customer ID and phone number?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Customer ID is CUST-88991, phone is 080-4567-1234, backup is 9876-543-210."
+        },
+        {
+          "speaker": "Executive",
+          "message": "And your registered email address?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "It's vijay_kumar@hotmail.com. Please send someone today."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_003",
+      "timestamp": "2024-11-17T09:45:12Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "Hello, I need to cancel my subscription. My account email is sarah.johnson@live.com."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Hi Sarah, I can help with that. What's your subscription ID?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "It's SUB-2024-77123. My phone number is +1-415-555-0188."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Got it. May I know the reason for cancellation?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "I'm switching providers. Please confirm via email and text."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_004",
+      "timestamp": "2024-11-18T16:30:27Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "My AC isn't cooling properly. Service request number SR-3344-AB."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Sorry to hear that. Can you share your contact information?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Name is Arjun Menon, phone +91-9123-456-789, alternate 080 22334455."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Thank you. What's your email address?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "arjun.menon1985@yahoo.in. When can someone come?"
+        },
+        {
+          "speaker": "Executive",
+          "message": "We'll schedule a technician visit within 24 hours."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_005",
+      "timestamp": "2024-11-19T11:05:56Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "I was charged twice for the same transaction. Transaction ID: TXN-998877-CC."
+        },
+        {
+          "speaker": "Executive",
+          "message": "I apologize for the inconvenience. Please provide your registered details."
+        },
+        {
+          "speaker": "Customer",
+          "message": "My email is jessica_brown@protonmail.com and phone is (212) 555-0145."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Do you have a ticket number for this issue?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Yes, TKT#8877-3322. I need this resolved urgently."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_006",
+      "timestamp": "2024-11-20T13:22:40Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "My delivery was supposed to arrive yesterday but I haven't received it. Order ID: ORD-334455-B."
+        },
+        {
+          "speaker": "Executive",
+          "message": "I'm sorry about the delay. May I have your name and contact number?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "I'm Amit Patel, phone is +91-9988-77-6655."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Thank you, Amit. What's your email address?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "amit.patel.delhi@gmail.com. Can you track it?"
+        },
+        {
+          "speaker": "Executive",
+          "message": "Let me check. Your package is out for delivery and should reach you today."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_007",
+      "timestamp": "2024-11-21T08:15:19Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "I can't access my account after the recent update. Error code: ERR-5599."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Let me help you with that. What's your registered email?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "linda_garcia@outlook.com. My user ID is USER-223344."
+        },
+        {
+          "speaker": "Executive",
+          "message": "And your phone number?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "(310) 555-0167. I need this fixed ASAP for work."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_008",
+      "timestamp": "2024-11-22T15:40:52Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "The product I received is defective. I want a refund. Order #ZZ-889900."
+        },
+        {
+          "speaker": "Executive",
+          "message": "I understand your frustration. Could you share your details?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Name: Sneha Reddy, email sneha.r2024@yahoo.co.in, phone 9100-223-344."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Got it. Do you have any photos of the defect?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Yes, I'll send them to the email. My alternate number is +91-8877-665-544."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_009",
+      "timestamp": "2024-11-23T10:55:31Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "I need technical support for my printer. It's showing error code P-4455. Ticket ID: TKT#9988-7766."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Sure, I can assist. What's your contact information?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Robert Chen, phone (650) 555-0192, email robert.chen@fastmail.com."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Thank you. Have you tried restarting the device?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Yes, multiple times. Still not working."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_010",
+      "timestamp": "2024-11-24T12:18:44Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "My flight booking got cancelled but I didn't receive a refund. Booking ref: BK-77889-Q."
+        },
+        {
+          "speaker": "Executive",
+          "message": "I apologize for the inconvenience. May I have your email and phone?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Email is maria.lopez@icloud.com, phone +1-305-555-0123."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Was this booking done through our app or website?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Through the app. Customer ID: CUST-445566."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_011",
+      "timestamp": "2024-11-25T14:32:15Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "Hello, my insurance claim was rejected. Claim number: CLM-2024-998877."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Let me look into this. What's your policy number and contact details?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Policy POL-556677, my name is Deepak Gupta, phone 9876-543-210."
+        },
+        {
+          "speaker": "Executive",
+          "message": "And your email address?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "deepak.gupta.finance@gmail.com. I need an explanation for the rejection."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_012",
+      "timestamp": "2024-11-26T09:20:38Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "I'm locked out of my account. Can't reset password. Username: emily_w_2024."
+        },
+        {
+          "speaker": "Executive",
+          "message": "I can help you regain access. What's your registered email?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "emily.wilson@tutanota.com. Phone is (718) 555-0134."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Did you receive any security code?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "No, nothing. Support ticket is TKT#6655-4433."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_013",
+      "timestamp": "2024-11-27T16:45:21Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "My credit card payment didn't go through. Reference number: REF-334422-P."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Sorry for the trouble. Can I have your account details?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Account holder: Kavita Iyer, email kavita_iyer@rediffmail.com, phone +91-9944-556-677."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Is this your primary contact number?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Yes. Secondary is 080-3322-1100. Please process it urgently."
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_014",
+      "timestamp": "2024-11-28T11:10:07Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "I need to update my shipping address for order ORD-112233-X."
+        },
+        {
+          "speaker": "Executive",
+          "message": "Sure, I can help with that. What's your name and contact info?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Kevin Martinez, phone (408) 555-0156, email kevin_m_sf@gmail.com."
+        },
+        {
+          "speaker": "Executive",
+          "message": "What's the new address you'd like to use?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "I'll email it. Has the order shipped yet?"
+        }
+      ]
+    },
+    {
+      "chat_id": "CHAT_015",
+      "timestamp": "2024-11-29T13:50:42Z",
+      "conversation": [
+        {
+          "speaker": "Customer",
+          "message": "My subscription auto-renewed but I wanted to cancel it. Sub ID: SUB-998877-M."
+        },
+        {
+          "speaker": "Executive",
+          "message": "I understand. May I have your account email?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "anita.das@live.in. My phone is 9123-456-789."
+        },
+        {
+          "speaker": "Executive",
+          "message": "When did you attempt to cancel?"
+        },
+        {
+          "speaker": "Customer",
+          "message": "Last week. I have the cancellation request ID: CANC-8877-Y."
+        }
+      ]
+    }
+  ]
+}
