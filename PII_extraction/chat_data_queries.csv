@@ -1,0 +1,16 @@
+chat_id,category,customer_query,resolution
+CHAT_001,Order Issue,"Hi, my name is Priya Sharma. I ordered a phone but received a tablet instead. Order number is ORD-445621.",Thank you. We'll arrange a replacement within 3 business days.
+CHAT_002,other,My broadband connection keeps dropping every hour. Complaint ID: CMP2024-XY9988.,And your registered email address?
+CHAT_003,other,"Hello, I need to cancel my subscription. My account email is sarah.johnson@live.com.",Got it. May I know the reason for cancellation?
+CHAT_004,other,My AC isn't cooling properly. Service request number SR-3344-AB.,We'll schedule a technician visit within 24 hours.
+CHAT_005,other,I was charged twice for the same transaction. Transaction ID: TXN-998877-CC.,Do you have a ticket number for this issue?
+CHAT_006,Order Issue,My delivery was supposed to arrive yesterday but I haven't received it. Order ID: ORD-334455-B.,Let me check. Your package is out for delivery and should reach you today.
+CHAT_007,other,I can't access my account after the recent update. Error code: ERR-5599.,And your phone number?
+CHAT_008,Order Issue,The product I received is defective. I want a refund. Order #ZZ-889900.,Got it. Do you have any photos of the defect?
+CHAT_009,other,I need technical support for my printer. It's showing error code P-4455. Ticket ID: TKT#9988-7766.,Thank you. Have you tried restarting the device?
+CHAT_010,other,My flight booking got cancelled but I didn't receive a refund. Booking ref: BK-77889-Q.,Was this booking done through our app or website?
+CHAT_011,other,"Hello, my insurance claim was rejected. Claim number: CLM-2024-998877.",And your email address?
+CHAT_012,other,I'm locked out of my account. Can't reset password. Username: emily_w_2024.,Did you receive any security code?
+CHAT_013,other,My credit card payment didn't go through. Reference number: REF-334422-P.,Is this your primary contact number?
+CHAT_014,Order Issue,I need to update my shipping address for order ORD-112233-X.,What's the new address you'd like to use?
+CHAT_015,other,My subscription auto-renewed but I wanted to cancel it. Sub ID: SUB-998877-M.,When did you attempt to cancel?
